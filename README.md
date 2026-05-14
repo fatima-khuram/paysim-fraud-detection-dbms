@@ -18,4 +18,4 @@ Final project for the Database Management Systems course.
 Microsoft SQL Server, T-SQL
 
 ## Dataset
-PaySim synthetic mobile money dataset (Kaggle)
+PaySim synthetic mobile money dataset (Kaggle).
